@@ -1,1 +1,2 @@
 # DataMiningAlgorithms
+# tecnosphere @mail.ru
